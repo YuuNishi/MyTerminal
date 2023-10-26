@@ -1,2 +1,2 @@
 # MyTerminal
-A simple mini cli for showing my infos
+A simple mini cli for showing my infos(still not finished)
